@@ -1,0 +1,2 @@
+C:\Users\dxrkalfie\source\repos\Cpp2IL Gui\Cpp2IL Gui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dxrkalfie\source\repos\Cpp2IL Gui\Cpp2IL Gui\obj\Debug\net8.0-windows\Cpp2IL Gui_MarkupCompile.cache
